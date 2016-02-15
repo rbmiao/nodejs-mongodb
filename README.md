@@ -11,3 +11,10 @@ Password for 'https://rbmiao@github.com':
 
 
 then: git push -u origin master
+
+
+http://192.168.1.17:3000/thelist
+http://192.168.1.17:3000/newstudent
+
+
+
